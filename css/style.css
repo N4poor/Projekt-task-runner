@@ -1,0 +1,26 @@
+body {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.nav-item a {
+  color: white;
+}
+
+.navbar-brand {
+  color: gold;
+}
+
+.txt h4 {
+  font-size: 40px;
+}
+
+.big-txt h1 {
+  font-size: 80px;
+}
+
+.btn {
+  font-size: 40px;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLGVBQUE7RUFDQSxpQkFBQTtBQ0NKOztBREVBO0VBQ0ksWUFBQTtBQ0NKOztBREVBO0VBQ0ksV0FBQTtBQ0NKOztBREVBO0VBQ0ksZUFBQTtBQ0NKOztBREVBO0VBQ0ksZUFBQTtBQ0NKOztBREVBO0VBQ0ksZUFBQTtBQ0NKIiwiZmlsZSI6InN0eWxlLmNzcyJ9 */
