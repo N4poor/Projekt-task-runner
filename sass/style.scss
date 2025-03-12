@@ -1,81 +1,80 @@
 body{
-    font-size:40px;
-    font-weight: bold;
+  font-size: 40px;
+  font-weight: bold;
 }
 
 .navbar-toggler-icon {
-    background-color: white; /* Ustaw białe tło dla ikony */
-    color: black;
-  }
-
-.nav-item a{
-    color: white;
-}
-.navigation{
-    background-image: url(https://i.postimg.cc/pLr1tgfN/pexels-andrew-3178938.jpg);
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
+  background-color: white;
+  color: black;
 }
 
-.header{
-    background-image: url(https://i.postimg.cc/pLr1tgfN/pexels-andrew-3178938.jpg);
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    height: 550px;
+.nav-item a {
+  color: white;
 }
 
-.txt{
-    padding-top: 50px;
+.navigation {
+  background-image: url(https://i.postimg.cc/pLr1tgfN/pexels-andrew-3178938.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 
-.txt h4{
-    font-size: 40px;
+.header {
+  background-image: url(https://i.postimg.cc/pLr1tgfN/pexels-andrew-3178938.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 550px;
 }
 
-.txt h1{
-    font-size: 80px;
+.txt {
+  padding-top: 50px;
 }
 
-.btn{
-    font-size: 40px;
+.txt h4 {
+  font-size: 40px;
 }
 
-i{
-    color: gold;
-    font-size: 50px;
-    border: 2px solid gold;
-    border-radius: 100%;
-    padding: 20px;
+.txt h1 {
+  font-size: 80px;
 }
 
-.services p{
-    font-size: 18px;
+.btn {
+  font-size: 40px;
 }
 
-.our-portfolio{
-    background: lightgray;
+i {
+  color: gold;
+  font-size: 50px;
+  border: 2px solid gold;
+  border-radius: 100%;
+  padding: 20px;
 }
 
-.our-portfolio img{
-width: 100%;
-height: 350px;
-object-fit: cover;
+.services p {
+  font-size: 18px;
 }
 
-.picture-txt{
-    background: white;
+.our-portfolio {
+  background: lightgray;
 }
 
-.foot-nav i{
-        color: gold;
-        font-size: 20px;
-        border: 2px solid gold;
-        border-radius: 100%;
-        padding: 5px;
+.our-portfolio img {
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
 }
 
-footer {
-
+.picture-txt {
+  background: white;
 }
+
+.foot-nav i {
+  color: gold;
+  font-size: 20px;
+  border: 2px solid gold;
+  border-radius: 100%;
+  padding: 5px;
+}
+
+footer {}
